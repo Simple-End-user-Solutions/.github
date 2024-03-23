@@ -2,11 +2,6 @@
 
 Simplified End User Systems is dedicated to creating innovative and user-friendly systems for a seamless end-user experience. Our focus ranges from software development to providing efficient technology solutions.
 
-## 👥 Team
-
-Meet the team behind SEUS:
-
-- Mkhatshwa Jerry
 
 ## ✨ Thank You
 
