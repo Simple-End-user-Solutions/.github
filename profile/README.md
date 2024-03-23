@@ -7,7 +7,6 @@ Simplified End User Systems is dedicated to creating innovative and user-friendl
 Meet the team behind SEUS:
 
 - Mkhatshwa Jerry
-- Kekana Elias
 
 ## ✨ Thank You
 
